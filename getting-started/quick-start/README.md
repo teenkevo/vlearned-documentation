@@ -6,11 +6,11 @@
 
 1. [Create a Vlearned account](create-a-vlearned-account.md#sign-up)
 2. [Register your organization](create-a-vlearned-account.md#create-organization-and-profile)
-3. [Onboard and manage your users](onboard-and-manage-your-users.md).
-4. [Create and manage your courses](create-and-manage-your-courses.md), assign them to instructors, and enroll trainees.
+3. [Onboard and manage your users](vlearned-administrative-module/manage-your-organization/onboard-and-manage-your-users.md).
+4. [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/), assign them to instructors, and enroll trainees.
 
 {% hint style="info" %}
-**Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Just create one for yourself in Vlearned, besides you can also brag about having your own organization.
+**\[\[\[Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Just create one for yourself in Vlearned, besides you can also brag about having your own organization.
 {% endhint %}
 
 ### Bored already! Do you prefer going through a full example?

@@ -50,10 +50,11 @@ When both your organization and admin profile has been created, use the "To Next
 
 ## **What's next?**
 
-We shall go through the workflows for onboarding
+We shall go through the intuitive workflows available for organization management:
 
-* Learners
-* Instructors&#x20;
-* Administrators
+* [Manage your organization](vlearned-administrative-module/manage-your-organization/)
+* [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/)
+* [Reporting and Metric analysis](vlearned-administrative-module/reporting-and-metrics-analysis.md)
+* [Vlearned help and support](vlearned-administrative-module/vlearned-help-and-support/)
 
-See [Onboard and manage your users](onboard-and-manage-your-users.md) for details.
+See [Vlearned Administrative Module](vlearned-administrative-module/) for details.
