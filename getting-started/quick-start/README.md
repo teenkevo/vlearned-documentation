@@ -10,7 +10,7 @@
 4. [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/), assign them to instructors, and enroll trainees.
 
 {% hint style="info" %}
-**\[\[\[Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Just create one for yourself in Vlearned, besides you can also brag about having your own organization.
+**Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Just create one for yourself in Vlearned, besides you can also brag about having your own organization.
 {% endhint %}
 
 ### Bored already! Do you prefer going through a full example?
