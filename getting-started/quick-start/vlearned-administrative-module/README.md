@@ -14,10 +14,6 @@ Vlearned's architecture is designed so that you have a bird's eye view of your o
 [create-and-manage-your-courses](create-and-manage-your-courses/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="vlearned-help-and-support.md" %}
 [vlearned-help-and-support.md](vlearned-help-and-support.md)
 {% endcontent-ref %}
