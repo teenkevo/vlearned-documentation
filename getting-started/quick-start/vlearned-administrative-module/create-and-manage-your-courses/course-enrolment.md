@@ -2,7 +2,7 @@
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.24.19 PM.png" alt=""><figcaption></figcaption></figure>
 
-Click on <mark style="color:blue;">**Enroll Trainees**</mark> to start the enrollment process. You have to choose a trainee from the dropdown and you will see a summary of the trainee's current mandatory and elective hours.&#x20;
+Click on **Enroll Trainees** to start the enrollment process. You have to choose a trainee from the dropdown and you will see a summary of the trainee's current mandatory and elective hours.&#x20;
 
 A list of all the courses in your organization will be provided from which you can choose a course to enrol a trainee. Mandatory courses are marked with 🔒 while Elective courses are marked with 🔓.&#x20;
 
