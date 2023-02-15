@@ -1,21 +1,7 @@
 # Manage your Organization
 
-## Section Overview
+* [x] Choose an organization from your list of managed organizations to start.
 
-This section gives you full organization control. There is no limit to the number of organizations you can hold with Vlearned and this is where you manage all the nitty gritty details. The Vlearned system is designed to ensure ease-of-use from set up to utilization and this is where it all begins. Here, you can create organizations, add users and manage their roles. You can also  manage your organizational subscription plans according to your specific capacity and organizational needs. The next sections will show you how easy it is to do both starting with user management.
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 9.12.29 PM.png" alt=""><figcaption><p>Managed Organizations Page</p></figcaption></figure>
 
-
-
-<figure><img src="../../../../.gitbook/assets/mo1.png" alt=""><figcaption><p>Organization Overview</p></figcaption></figure>
-
-
-
-## **What's next?**
-
-We shall go through the workflows for onboarding and managing users:
-
-* Learners
-* Instructors&#x20;
-* Administrators
-
-See [Onboard and manage your users](onboard-and-manage-your-users.md) for details.
+* [x] You will then have access to different organizational management modules. The <mark style="color:blue;">**user**</mark> [<mark style="color:blue;">**onboarding module**</mark>](onboard-and-manage-your-users.md) and the [<mark style="color:blue;">**subscription management module**</mark>](subscriptions-and-billing.md)<mark style="color:blue;">**.**</mark> These are going to be covered in the two next sections.

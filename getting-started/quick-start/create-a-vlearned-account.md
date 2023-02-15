@@ -1,12 +1,10 @@
-# Create a Vlearned account
+# Create a Vlearned Account
 
-You need a Vlearned account to use the Vlearned ecosystem.
-
-To create a Vlearned account:
+You need a Vlearned account to get started with the Vlearned ecosystem.&#x20;
 
 ## Sign up
 
-Go to [https://www.vlearned.com](https://www.vlearned.com) and click **Try for free** on the top right of the landing page.
+Go to [https://www.vlearned.com](https://www.vlearned.com) and click <mark style="color:blue;">**Try for free**</mark> at the top right of the landing page.
 
 <figure><img src="../../.gitbook/assets/Try for Free.png" alt="Vlearned Landing Page"><figcaption><p>Landing Page</p></figcaption></figure>
 
@@ -19,7 +17,7 @@ Go to [https://www.vlearned.com](https://www.vlearned.com) and click **Try for f
 After signing in, you'll see the page below prompting you to create your **organization** and **profile**.
 
 {% hint style="info" %}
-**Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Using Vlearned, you can create one for yourself using the form fields provided. The "_Create profile_" option will only be available once your organization has been created.
+**Vlearned Tip: It doesn't matter if you don't have an organization in real life**. Vlearned allows you to create and manage one for yourself.
 {% endhint %}
 
 ### Create your organization
@@ -30,11 +28,13 @@ After signing in, you'll see the page below prompting you to create your **organ
 
 ### Create your profile
 
-Once your organization has been created, the "Create organization" option will be checked and the "Create profile" option will become clickable opening the profile creator dialog.
+Once your organization has been created, the "Create organization" option will become checked ✅ and the "Create profile" option will become clickable allowing you to create your profile
 
 {% hint style="info" %}
-Here you are creating an **Administrator Profile** for yourself because the organization you created previously is required to have at least one admin (yourself in this case). With this profile, you will be able to onboard other users (admins, instructors, and trainees) into your organization.
+**Vlearned Tip:** Here you are creating an **Administrator Profile** for yourself because the organization you created is required to have at least one admin (yourself in this case).&#x20;
 {% endhint %}
+
+With this profile, you will be able to onboard other users (admins, instructors, and trainees) into your organization.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-14 at 12.53.53 AM.png" alt=""><figcaption><p>Getting Started Page (Create profile) </p></figcaption></figure>
 
@@ -42,7 +42,7 @@ Here you are creating an **Administrator Profile** for yourself because the orga
 
 ### Proceed to the Vlearned Administrative Module
 
-When both your organization and admin profile has been created, use the "To Next Steps" button to redirect to your Vlearned Administrative Module.
+When both your organization and administrative profile have been created, use the "<mark style="color:blue;">**To Next Steps**</mark>" button to redirect to your Vlearned Administrative Module.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-14 at 1.10.23 AM.png" alt=""><figcaption><p>Getting Started Page (Next Steps available) </p></figcaption></figure>
 
@@ -54,7 +54,5 @@ We shall go through the intuitive workflows available for organization managemen
 
 * [Manage your organization](vlearned-administrative-module/manage-your-organization/)
 * [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/)
-* [Reporting and Metric analysis](vlearned-administrative-module/reporting-and-metrics-analysis.md)
-* [Vlearned help and support](vlearned-administrative-module/vlearned-help-and-support/)
-
-See [Vlearned Administrative Module](vlearned-administrative-module/) for details.
+* [Reporting and Metric analysis](broken-reference)
+* [Vlearned help and suppor](vlearned-administrative-module/vlearned-help-and-support.md)t

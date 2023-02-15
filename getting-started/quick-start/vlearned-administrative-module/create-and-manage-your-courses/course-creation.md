@@ -1,45 +1,49 @@
 # Course Creation
 
-## Training Module Creator
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.24.19 PM.png" alt=""><figcaption><p>Course Creation and Management Page</p></figcaption></figure>
 
-### To create a new module:
+Click on <mark style="color:blue;">**Create a course**</mark> to start the curation process. Several form fields are provided to make your course build straightforward and customizable.
 
-<figure><img src="../../../../.gitbook/assets/1-4 cm.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-If your training method or training type isn't on the suggestions, you can add your own then select it from the drop-down list.
-{% endhint %}
-
-
-
-#### Scheduler
-
-The scheduler set-up is entirely dependent on whether your module is a once-off event or a recurring one.
-
-<figure><img src="../../../../.gitbook/assets/rcm.png" alt=""><figcaption><p>Recurring Training Module Set-up</p></figcaption></figure>
-
-<figure><img src="../../../../.gitbook/assets/nrcm.png" alt=""><figcaption><p>Non-recurring Training Module Set-up</p></figcaption></figure>
+### Basic Course Information Fields
 
 {% hint style="info" %}
-An enrollment code is automatically generated which can be provided to your students.
+**Vlearned Tip:** A course is supposed to be assigned to an instructor before you are able to enrol any students into it. The first form field provides a dropdown populated with your onboarded instructors to assign your course to
 {% endhint %}
 
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.29.47 PM.png" alt=""><figcaption><p>Basic Course Information Fields</p></figcaption></figure>
 
+### Costing, Teaching Method and Course Category Fields&#x20;
 
-<figure><img src="../../../../.gitbook/assets/6-8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.46.08 PM.png" alt=""><figcaption><p>Costing, Teaching Method and Course Category FIelds</p></figcaption></figure>
+
+### Scheduler Fields
+
+Courses can be configured to <mark style="color:blue;">**occur once**</mark> or recur <mark style="color:blue;">**daily, weekly, monthly or yearly**</mark>.
+
+#### Non-recurring courses
+
+For such courses, you just need to specify your appointment date and timing as shown below
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.51.40 PM.png" alt=""><figcaption><p>One-time Course</p></figcaption></figure>
+
+#### Recurring courses&#x20;
+
+For recurring courses, you have to set the <mark style="color:blue;">**appointment timing**</mark>, <mark style="color:blue;">**recurrence patterns**</mark> which can be daily, weekly, monthly or yearly,  and the <mark style="color:blue;">**range of occurrence**</mark> where you choose a specific start date and an ending criteria
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.57.40 PM.png" alt=""><figcaption><p>Recurring course (Appointment timing and recurrence patterns)</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 3.01.50 PM.png" alt=""><figcaption><p>Recurring course (Range of Occurance)</p></figcaption></figure>
+
+### Visibility, Enrollment Code and Mandatory Status Fields
+
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 3.05.22 PM.png" alt=""><figcaption><p>Visibility Enrollment Code and Mandatory Status Fields</p></figcaption></figure>
 
 {% hint style="info" %}
-Subjects with their visibility off will not show in the trainee app but you have access to them.
+**Vlearned Tip:** An enrollment code is automatically generated which can be provided to your students for manual enrollment.
 {% endhint %}
 
+{% hint style="warning" %}
+**Vlearned Warning:** It is important to note that the course schedule governs how lessons, assignments and assessments will be created by the instructor.
+{% endhint %}
 
-
-## **What's next?**
-
-We shall go through the workflows for course enrolment:
-
-* Learners
-* Instructors&#x20;
-* Administrators
-
-See [Course Enrolment](course-enrolment.md) for details.
+The next step is to enrol your onboarded trainees into the created course
