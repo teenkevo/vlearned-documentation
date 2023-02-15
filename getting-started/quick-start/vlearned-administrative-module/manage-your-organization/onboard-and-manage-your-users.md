@@ -32,7 +32,7 @@ Adding administrators can be done in two ways; <mark style="color:blue;">**indiv
 
 To assign an administrator one by one, click <mark style="color:blue;">**Add an Admin**</mark> and onboard an administrator using the form details provided.
 
-* [x] Administrator basic information
+#### Administrator basic information
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 10.11.59 PM.png" alt=""><figcaption><p>Admin Basic Information</p></figcaption></figure>
 
@@ -40,11 +40,11 @@ To assign an administrator one by one, click <mark style="color:blue;">**Add an 
 **Vlearned Tip**: A default password will be generated for the user. No need to remember this, the user will receive a password reset ticket automatically.
 {% endhint %}
 
-* [x] Administrator Address Information
+#### Administrator Address Information
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 10.17.22 PM (1).png" alt=""><figcaption><p>Administrator Address Information</p></figcaption></figure>
 
-* [x] Organization Designation Information
+#### Organization Designation Information
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 10.19.52 PM.png" alt=""><figcaption><p>Administrator Designation Information</p></figcaption></figure>
 
