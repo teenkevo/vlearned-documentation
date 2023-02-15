@@ -12,4 +12,4 @@
       * [Create and Manage your Courses](getting-started/quick-start/vlearned-administrative-module/create-and-manage-your-courses/README.md)
         * [Course Creation](getting-started/quick-start/vlearned-administrative-module/create-and-manage-your-courses/course-creation.md)
         * [Course Enrolment](getting-started/quick-start/vlearned-administrative-module/create-and-manage-your-courses/course-enrolment.md)
-      * [Vlearned Help and Support](getting-started/quick-start/vlearned-administrative-module/vlearned-help-and-support.md)
+* [Vlearned Help and Support](vlearned-help-and-support.md)
