@@ -55,4 +55,4 @@ We shall go through the intuitive workflows available for organization managemen
 * [Manage your organization](vlearned-administrative-module/manage-your-organization/)
 * [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/)
 * [Reporting and Metric analysis](broken-reference)
-* [Vlearned help and suppor](vlearned-administrative-module/vlearned-help-and-support.md)t
+* [Vlearned help and support](vlearned-administrative-module/vlearned-help-and-support.md)
