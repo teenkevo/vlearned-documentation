@@ -10,9 +10,9 @@ Each organization is initially automatically subscribed to the free plan. As an 
 **Vlearned Tip**: No credit card is required to access the free plan
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.28.45 PM.png" alt=""><figcaption><p>Free and SME Subscription Plan Tiers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.28.45 PM.png" alt=""><figcaption><p>Free and SME Subscription Plan Tiers</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.30.21 PM (1).png" alt=""><figcaption><p>Subscription Plan Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.30.21 PM (1).png" alt=""><figcaption><p>Subscription Plan Overview</p></figcaption></figure>
 
 Below is the user interface to show you what subscription plan you are on, its payment schedule, the issue date of the next invoice, and an option to cancel the subscription plan.
 
@@ -20,7 +20,7 @@ Below is the user interface to show you what subscription plan you are on, its p
 
 The organization info page will inform you of what subscription plan your organization is on, the payment schedule, the issue date of the next invoice, and an option to cancel the subscription plan. This information is show in the UI section below.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.36.36 PM.png" alt=""><figcaption><p>Current Subscription Plan UI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.36.36 PM.png" alt=""><figcaption><p>Current Subscription Plan UI</p></figcaption></figure>
 
 #### Invoice-Based Payments
 
@@ -30,11 +30,11 @@ If the subscription plan is invoice-based, upon subscription, you will receive a
 
 For auto payments, you need to provide a card in the payment methods section before choosing a plan. Simply enter your card details; card number, CVC and country of issue then click submit. The system will charge this card the due amount in each chargeable period and issue both an invoice and a receipt via email to your organization's email address.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.59.16 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.59.16 PM.png" alt=""><figcaption></figcaption></figure>
 
 Unpaid invoices can be seen under the **Unpaid invoices** section and paid invoices and respective receipts can be seen under the **paid invoices and receipts** section as shown below.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.54.11 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.54.11 PM.png" alt=""><figcaption></figcaption></figure>
 
 ## How to calculate your fees when upgrading or downgrading <a href="#article-header-title" id="article-header-title"></a>
 
@@ -56,9 +56,9 @@ That’s where prorated (i.e., proportionate) billing comes in to save the day. 
 
 Of course, all the adjustments are included in your invoice as separate items so that you know exactly what you’re charged for.
 
-#### Here is a quick example invoice
+#### Here is a quick sample invoice
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 12.20.09 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.20.09 AM.png" alt=""><figcaption></figcaption></figure>
 
 When you sign up for the SME Tier-1 12-months plan (i.e., $951/year for up to 25 registered users) on the 5th of February 2023 in the morning, you’re charged $951 on the 5th of February same time in the morning each year. If during the 1st month, you upgrade to SME Tier-1 monthly plan (i.e., $99/month for up to 25 registered users) on the 5th of February 2023, you'd be charged for the first few hours of month 1 (**$0.05**) and the remaining unused time on the subscription plan (**$950.95**) kept for re-use on your new plan of <mark style="color:blue;">****</mark>** $99.** This means that for your new plan, you would pay **$99** from the remaining **$950.95** and still have a balance of **$851.95.**
 
