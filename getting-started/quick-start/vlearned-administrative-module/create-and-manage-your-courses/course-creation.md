@@ -2,7 +2,7 @@
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.24.19 PM.png" alt=""><figcaption><p>Course Creation and Management Page</p></figcaption></figure>
 
-Click on <mark style="color:blue;">**Create a course**</mark> to start the curation process. Several form fields are provided to make your course build straightforward and customizable.
+Click on **Create a course** to start the curation process. Several form fields are provided to make your course build straightforward and customizable.
 
 ### Basic Course Information Fields
 
@@ -18,7 +18,7 @@ Click on <mark style="color:blue;">**Create a course**</mark> to start the curat
 
 ### Scheduler Fields
 
-Courses can be configured to <mark style="color:blue;">**occur once**</mark> or recur <mark style="color:blue;">**daily, weekly, monthly or yearly**</mark>.
+Courses can be configured to **occur once** or recur **daily, weekly, monthly or yearly**.
 
 #### Non-recurring courses
 
@@ -28,7 +28,7 @@ For such courses, you just need to specify your appointment date and timing as s
 
 #### Recurring courses&#x20;
 
-For recurring courses, you have to set the <mark style="color:blue;">**appointment timing**</mark>, <mark style="color:blue;">**recurrence patterns**</mark> which can be daily, weekly, monthly or yearly,  and the <mark style="color:blue;">**range of occurrence**</mark> where you choose a specific start date and an ending criteria
+For recurring courses, you have to set the **appointment timing**, **recurrence patterns** which can be daily, weekly, monthly or yearly,  and the **range of occurrence** where you choose a specific start date and an ending criteria
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 2.57.40 PM.png" alt=""><figcaption><p>Recurring course (Appointment timing and recurrence patterns)</p></figcaption></figure>
 

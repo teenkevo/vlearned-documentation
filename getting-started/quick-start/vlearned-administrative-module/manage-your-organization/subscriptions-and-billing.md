@@ -2,7 +2,7 @@
 
 ## Billing Overview
 
-Our pricing is flexible for small, medium and large enterprises. We offer a <mark style="color:blue;">**lifetime free plan**</mark> for you to experiment with Vlearned and decide if it fits your needs. We have five other tiers available depending on your institution size and training needs; _<mark style="color:blue;">**Free plan (Micro), SME Tier 1, SME Tier 2, Mid Tier 1, Mid Tier 2**</mark> and <mark style="color:blue;">**Large Tier**</mark>._&#x20;
+Our pricing is flexible for small, medium and large enterprises. We offer a **lifetime free plan** for you to experiment with Vlearned and decide if it fits your needs. We have five other tiers available depending on your institution size and training needs; _**Free plan (Micro), SME Tier 1**<mark style="color:blue;">**,**</mark>** SME Tier 2, Mid Tier 1, Mid Tier 2 **<mark style="color:blue;">****</mark> and <mark style="color:blue;">****</mark>** Large Tier**._&#x20;
 
 Each organization is initially automatically subscribed to the free plan. As an administrator, you can choose and change the subscription plan for your organization. Each tier differs in user capacity, server storage space allocated and live sessions capacity.&#x20;
 
@@ -32,7 +32,7 @@ For auto payments, you need to provide a card in the payment methods section bef
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.59.16 PM.png" alt=""><figcaption></figcaption></figure>
 
-Unpaid invoices can be seen under the <mark style="color:blue;">**Unpaid invoices**</mark> section and paid invoices and respective receipts can be seen under the <mark style="color:blue;">**paid invoices and receipts**</mark> section as shown below.
+Unpaid invoices can be seen under the **Unpaid invoices** section and paid invoices and respective receipts can be seen under the **paid invoices and receipts** section as shown below.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 11.54.11 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -60,7 +60,7 @@ Of course, all the adjustments are included in your invoice as separate items so
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-15 at 12.20.09 AM.png" alt=""><figcaption></figcaption></figure>
 
-When you sign up for the SME Tier-1 12-months plan (i.e., $951/year for up to 25 registered users) on the 5th of February 2023 in the morning, you’re charged $951 on the 5th of February same time in the morning each year. If during the 1st month, you upgrade to SME Tier-1 monthly plan (i.e., $99/month for up to 25 registered users) on the 5th of February 2023, you'd be charged for the first few hours of month 1 (<mark style="color:blue;">**$0.05**</mark>) and the remaining unused time on the subscription plan (<mark style="color:blue;">**$950.95**</mark>) kept for re-use on your new plan of <mark style="color:blue;">**$99**</mark>**.** This means that for your new plan, you would pay <mark style="color:blue;">**$99**</mark> from the remaining <mark style="color:blue;">**$950.95**</mark>** ** and still have a balance of <mark style="color:blue;">**$851.95**</mark>**.**
+When you sign up for the SME Tier-1 12-months plan (i.e., $951/year for up to 25 registered users) on the 5th of February 2023 in the morning, you’re charged $951 on the 5th of February same time in the morning each year. If during the 1st month, you upgrade to SME Tier-1 monthly plan (i.e., $99/month for up to 25 registered users) on the 5th of February 2023, you'd be charged for the first few hours of month 1 (**$0.05**) and the remaining unused time on the subscription plan (**$950.95**) kept for re-use on your new plan of <mark style="color:blue;">****</mark>** $99.** This means that for your new plan, you would pay **$99** from the remaining **$950.95** and still have a balance of **$851.95.**
 
 #### **Cancellation**
 

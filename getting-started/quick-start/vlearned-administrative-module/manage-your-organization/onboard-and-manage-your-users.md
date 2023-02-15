@@ -21,16 +21,16 @@ When you access your organization you will see an overview of the roles availabl
 You can click on any of the roles to start onboarding users in that role.&#x20;
 
 {% hint style="info" %}
-**Vlearned Tip:** The onboarding process is the same for all the roles. For a guiding example, we shall go through the <mark style="color:blue;">**Admin onboarding process**</mark> below.
+**Vlearned Tip:** The onboarding process is the same for all the roles. For a guiding example, we shall go through the **Admin onboarding process** below.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 9.57.39 PM.png" alt=""><figcaption><p>Administrator onboarding</p></figcaption></figure>
 
-Adding administrators can be done in two ways; <mark style="color:blue;">**individually**</mark> or in <mark style="color:blue;">**batches**</mark>.&#x20;
+Adding administrators can be done in two ways; **individually** or in **batches**.&#x20;
 
 ### Assigning an Individual Role
 
-To assign an administrator one by one, click <mark style="color:blue;">**Add an Admin**</mark> and onboard an administrator using the form details provided.
+To assign an administrator one by one, click **Add an Admin **<mark style="color:blue;">****</mark> and onboard an administrator using the form details provided.
 
 #### Administrator basic information
 
@@ -50,7 +50,7 @@ To assign an administrator one by one, click <mark style="color:blue;">**Add an 
 
 ### Assigning a role to a batch of users
 
-Alternatively, we understand that many organizations already have their existing user bases and there is usually a need to migrate these users to a system like Vlearned. We provide a straightforward <mark style="color:blue;">**bulk import**</mark> onboarding mechanism using a CSV file.
+Alternatively, we understand that many organizations already have their existing user bases and there is usually a need to migrate these users to a system like Vlearned. We provide a straightforward **bulk import** onboarding mechanism using a CSV file.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2023-02-14 at 10.45.22 PM.png" alt=""><figcaption><p>Bulk Import Module</p></figcaption></figure>
 
@@ -60,7 +60,7 @@ Alternatively, we understand that many organizations already have their existing
 
 ## Managing a user
 
-After onboarding a user, clicking on their email takes you to the <mark style="color:blue;">**Role Manager**</mark> and <mark style="color:blue;">**Danger Zone**</mark> modules.
+After onboarding a user, clicking on their email takes you to the **Role Manager** and **Danger Zone** modules.
 
 ### Role Manager
 

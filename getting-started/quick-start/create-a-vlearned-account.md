@@ -4,7 +4,7 @@ You need a Vlearned account to get started with the Vlearned ecosystem.&#x20;
 
 ## Sign up
 
-Go to [https://www.vlearned.com](https://www.vlearned.com) and click <mark style="color:blue;">**Try for free**</mark> at the top right of the landing page.
+Go to [https://www.vlearned.com](https://www.vlearned.com) and click **Try for free** at the top right of the landing page.
 
 <figure><img src="../../.gitbook/assets/Try for Free.png" alt="Vlearned Landing Page"><figcaption><p>Landing Page</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ With this profile, you will be able to onboard other users (admins, instructors,
 
 ### Proceed to the Vlearned Administrative Module
 
-When both your organization and administrative profile have been created, use the "<mark style="color:blue;">**To Next Steps**</mark>" button to redirect to your Vlearned Administrative Module.
+When both your organization and administrative profile have been created, use the "**To Next Steps**" button to redirect to your Vlearned Administrative Module.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-14 at 1.10.23 AM.png" alt=""><figcaption><p>Getting Started Page (Next Steps available) </p></figcaption></figure>
 
