@@ -52,7 +52,7 @@ When both your organization and administrative profile have been created, use th
 
 We shall go through the intuitive workflows available for organization management:
 
-* [Manage your organization](vlearned-administrative-module/manage-your-organization/)
-* [Create and manage your courses](vlearned-administrative-module/create-and-manage-your-courses/)
+* [Manage your organization](../../vlearned-administrative-module/manage-your-organization/)
+* [Create and manage your courses](../../vlearned-administrative-module/create-and-manage-your-courses/)
 * [Reporting and Metric analysis](broken-reference)
 * [Vlearned help and support](../../vlearned-help-and-support.md)
