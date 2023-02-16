@@ -14,7 +14,7 @@ description: Your education will never be the same! Let's show you how
 Understand Vlearned's ecosystem, its scope of capabilities, and overall pedagogical philosophy.&#x20;
 
 ****[**Getting Started**](getting-started/)\
-Start exploiting Vlearned.
+Start exploring Vlearned.
 
 ## Explore the Vlearned ecosystem
 

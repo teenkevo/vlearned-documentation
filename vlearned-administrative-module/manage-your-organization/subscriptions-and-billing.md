@@ -2,7 +2,7 @@
 
 ## Billing Overview
 
-Our pricing is flexible for small, medium and large enterprises. We offer a **lifetime free plan** for you to experiment with Vlearned and decide if it fits your needs. We have five other tiers available depending on your institution size and training needs; _**Free plan (Micro), SME Tier 1**<mark style="color:blue;">**,**</mark>** SME Tier 2, Mid Tier 1, Mid Tier 2 **<mark style="color:blue;">****</mark> and <mark style="color:blue;">****</mark>** Large Tier**._&#x20;
+Our pricing is flexible for small, medium and large enterprises. We offer a **lifetime free plan** for you to experiment with Vlearned and decide if it fits your needs. We have five other tiers available depending on your institution size and training needs; _**SME Tier 1**<mark style="color:blue;">**,**</mark>** SME Tier 2, Mid Tier 1, Mid Tier 2 **<mark style="color:blue;">****</mark> and <mark style="color:blue;">****</mark>** Large Tier**._&#x20;
 
 Each organization is initially automatically subscribed to the free plan. As an administrator, you can choose and change the subscription plan for your organization. Each tier differs in user capacity, server storage space allocated and live sessions capacity.&#x20;
 
@@ -14,11 +14,9 @@ Each organization is initially automatically subscribed to the free plan. As an 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.30.21 PM (1).png" alt=""><figcaption><p>Subscription Plan Overview</p></figcaption></figure>
 
-Below is the user interface to show you what subscription plan you are on, its payment schedule, the issue date of the next invoice, and an option to cancel the subscription plan.
-
 ### Subscription Plans
 
-The organization info page will inform you of what subscription plan your organization is on, the payment schedule, the issue date of the next invoice, and an option to cancel the subscription plan. This information is show in the UI section below.
+The organization info page will inform you of what subscription plan your organization is on, the payment schedule, the issue date of the next invoice, and an option to cancel the subscription plan. This information is shown in the UI section below.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 11.36.36 PM.png" alt=""><figcaption><p>Current Subscription Plan UI</p></figcaption></figure>
 
@@ -38,11 +36,11 @@ Unpaid invoices can be seen under the **Unpaid invoices** section and paid invoi
 
 ## How to calculate your fees when upgrading or downgrading <a href="#article-header-title" id="article-header-title"></a>
 
-Vlearned lets you upgrade or downgrade your current subscription plan at any point during your monthly billing cycle. While doing this, Vlearned applies prorated billing to charge fairly, based on actual usage.
+Vlearned lets you upgrade or downgrade your current subscription plan at any point during your billing cycle. While doing this, Vlearned applies prorated billing to charge fairly, based on actual usage.
 
 #### **Let’s see how the Vlearned Proration system works**
 
-When you subscribe to a Vlearned subscription paid plan, you’re always charged at the beginning of your billing cycle (i.e., the day you purchased your initial plan) for a full month’s use (i.e., until the end of your billing cycle), regardless of the day you upgrade or downgrade.
+When you subscribe to a Vlearned subscription paid plan, you’re always charged at the beginning of your billing cycle (i.e., the day you purchased your initial plan) for a full period's use (i.e., until the end of your billing cycle), regardless of the day you upgrade or downgrade.
 
 When you change subscription plans in the middle of your billing cycle, then your usage for the remaining days until you’re charged again is different than what you have paid for at the beginning of the billing cycle. So, depending on whether you’re upgrading or downgrading, you would either have to:
 
@@ -60,7 +58,7 @@ Of course, all the adjustments are included in your invoice as separate items so
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-15 at 12.20.09 AM.png" alt=""><figcaption></figcaption></figure>
 
-When you sign up for the SME Tier-1 12-months plan (i.e., $951/year for up to 25 registered users) on the 5th of February 2023 in the morning, you’re charged $951 on the 5th of February same time in the morning each year. If during the 1st month, you upgrade to SME Tier-1 monthly plan (i.e., $99/month for up to 25 registered users) on the 5th of February 2023, you'd be charged for the first few hours of month 1 (**$0.05**) and the remaining unused time on the subscription plan (**$950.95**) kept for re-use on your new plan of <mark style="color:blue;">****</mark>** $99.** This means that for your new plan, you would pay **$99** from the remaining **$950.95** and still have a balance of **$851.95.**
+When you sign up for the SME Tier-1 12-months plan (i.e., $951/year for up to 25 registered users) on the 5th of February 2023 in the morning, you’re charged $951 on the 5th of February same time in the morning each year. If during the 1st month, you downgrade to SME Tier-1 monthly plan (i.e., $99/month for up to 25 registered users) on the 5th of February 2023, you'd be charged for the first few hours of month 1 (**$0.05**) and the remaining unused time on the subscription plan (**$950.95**) kept for re-use on your new plan of <mark style="color:blue;">****</mark>** $99.** This means that for your new plan, you would pay **$99** from the remaining **$950.95** and still have a balance of **$851.95.**
 
 #### **Cancellation**
 
