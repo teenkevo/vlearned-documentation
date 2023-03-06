@@ -20,6 +20,14 @@ With Vlearned's RBAC, we hoped to decrease the need for paperwork and password c
 
 <figure><img src="../.gitbook/assets/Guide Book-roles.png" alt="Vlearned Available Roles"><figcaption><p>The available roles in Vlearned's RBAC architecture</p></figcaption></figure>
 
+### Vlearned Buddy
+
+Our RBAC system features a buddy guide associated with each role to assist your users in navigating the system. Follow the link below to find out more about this feature:
+
+{% content-ref url="../vlearned-buddy.md" %}
+[vlearned-buddy.md](../vlearned-buddy.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 **Vlearned Tip:** Later, we shall go through the context of each of the above roles in detail.
 {% endhint %}

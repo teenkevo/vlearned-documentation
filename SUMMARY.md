@@ -5,6 +5,7 @@
   * [Introducing Vlearned](getting-started/introducing-vlearned.md)
   * [Quick Start](getting-started/quick-start/README.md)
     * [Create a Vlearned Account](getting-started/quick-start/create-a-vlearned-account.md)
+* [Vlearned Buddy](vlearned-buddy.md)
 * [Vlearned Administrative Module](vlearned-administrative-module/README.md)
   * [Manage your Organization](vlearned-administrative-module/manage-your-organization/README.md)
     * [Onboard and Manage your Users](vlearned-administrative-module/manage-your-organization/onboard-and-manage-your-users.md)
