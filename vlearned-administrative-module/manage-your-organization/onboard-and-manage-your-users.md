@@ -52,7 +52,29 @@ To assign an administrator one by one, click **Add an Admin **<mark style="color
 
 Alternatively, we understand that many organizations already have their existing user bases and there is usually a need to migrate these users to a system like Vlearned. We provide a straightforward **bulk import** onboarding mechanism using a CSV file.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-14 at 10.45.22 PM.png" alt=""><figcaption><p>Bulk Import Module</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bulk Import 1.png" alt=""><figcaption><p>Bulk User Importer</p></figcaption></figure>
+
+#### Bulk Import Do's and Don'ts
+
+Bulk import's require you to adhere to some strict guidelines such as file formats, email validity and user limits to name a few.&#x20;
+
+{% hint style="success" %}
+<mark style="color:green;">**You will know have done the right thing when your screen looks like this:**</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Bulk Import 3-All valid.png" alt=""><figcaption><p><strong>Successful Upload:</strong> All Users Processed</p></figcaption></figure>
+
+
+
+However errors may occur which may result in an unsuccessful import. One such error is illustrated below:
+
+{% hint style="danger" %}
+<mark style="color:red;">**Role Based Access Control(RBAC) means each user can be assigned one role in your organization at any given time.**</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Bulk Import 2.png" alt=""><figcaption><p><strong>Potential Import Error:</strong> User already exists in System</p></figcaption></figure>
+
+For all the nitty gritty details follow the link below:
 
 {% hint style="info" %}
 **Vlearned Tip**: The CSV bulk import process is detailed at [https://storage.googleapis.com/welearned-bucket/bulk\_import\_instructions.pdf](https://storage.googleapis.com/welearned-bucket/bulk\_import\_instructions.pdf)

@@ -22,10 +22,10 @@ With Vlearned's RBAC, we hoped to decrease the need for paperwork and password c
 
 ### Vlearned Buddy
 
-Our RBAC system features a buddy guide associated with each role to assist your users in navigating the system. Follow the link below to find out more about this feature:
+Our RBAC system features a Buddy guide associated with each role to assist users in navigating the system. Follow the link below to find out more about this feature:
 
-{% content-ref url="../vlearned-buddy.md" %}
-[vlearned-buddy.md](../vlearned-buddy.md)
+{% content-ref url="vlearned-buddy.md" %}
+[vlearned-buddy.md](vlearned-buddy.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
