@@ -4,7 +4,7 @@ You need a Vlearned account to get started with the Vlearned ecosystem.&#x20;
 
 ## Sign up
 
-Go to [https://www.vlearned.com](https://www.vlearned.com) and click **Try for free** at the top right of the landing page.
+Go to [https://vlearned.netlify.app/](https://vlearned.netlify.app/) and click **Try for free** at the top right of the landing page.
 
 <figure><img src="../../.gitbook/assets/Try for Free.png" alt="Vlearned Landing Page"><figcaption><p>Landing Page</p></figcaption></figure>
 
